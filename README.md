@@ -14,13 +14,16 @@ Main entrypoint:
 
 Sample: `sample_0004_idx_0427`
 
-Before (`examples/sample_0004_before_inpaint.png`):
-
-![Before Example](examples/sample_0004_before_inpaint.png)
-
-Final (`examples/sample_0004_final_rendered.png`):
-
-![Final Example](examples/sample_0004_final_rendered.png)
+<div style="display: flex; gap: 16px; align-items: flex-start;">
+  <div>
+    <p><strong>Before</strong></p>
+    <img src="examples/sample_0004_before_inpaint.png" alt="Before Example" width="200" />
+  </div>
+  <div>
+    <p><strong>Final</strong></p>
+    <img src="examples/sample_0004_final_rendered.png" alt="Final Example" width="200" />
+  </div>
+</div>
 
 ## What It Does
 
