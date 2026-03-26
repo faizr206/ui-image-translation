@@ -10,6 +10,18 @@ region.
 Main entrypoint:
 - `src/export_screenspot_paddleocr_vl.py`
 
+## Example Result
+
+Sample: `sample_0004_idx_0427`
+
+Before (`examples/sample_0004_before_inpaint.png`):
+
+![Before Example](examples/sample_0004_before_inpaint.png)
+
+Final (`examples/sample_0004_final_rendered.png`):
+
+![Final Example](examples/sample_0004_final_rendered.png)
+
 ## What It Does
 
 - Samples `N` images from ScreenSpot.
@@ -29,6 +41,7 @@ Main entrypoint:
 │   ├── export_screenspot_paddleocr_vl.py   # Main pipeline
 │   ├── font_download.py                     # Optional helper for downloading fonts
 │   └── model_test.py                        # Optional environment check
+├── examples/                                # README example images
 ├── assets/
 │   └── fonts/                               # Candidate fonts (recursive scan)
 └── outputs/
