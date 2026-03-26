@@ -12,18 +12,12 @@ Main entrypoint:
 
 ## Example Result
 
-Sample: `sample_0004_idx_0427`
+english to indonesian language
 
-<div style="display: flex; gap: 16px; align-items: flex-start;">
-  <div>
-    <p><strong>Before</strong></p>
-    <img src="examples/sample_0004_before_inpaint.png" alt="Before Example" width="200" />
-  </div>
-  <div>
-    <p><strong>Final</strong></p>
-    <img src="examples/sample_0004_final_rendered.png" alt="Final Example" width="200" />
-  </div>
-</div>
+<p>
+  <img src="examples/sample_0004_before_inpaint.png" alt="Before Example" width="200" />
+  <img src="examples/sample_0004_final_rendered.png" alt="Final Example" width="200" />
+</p>
 
 ## What It Does
 
